@@ -128,10 +128,10 @@ int main () {
             break;
    }
 }
-if (score1 == 1) 
+if (score1 == 21) 
 printf("First win!");
 else 
-if (score2 == 1) 
+if (score2 == 21) 
 printf("Second win!");
 return 0;
 }
