@@ -1,0 +1,3 @@
+cd door_management_files/door_configuration
+nano door_1.conf
+status change OPEN  // all conf
